@@ -8,10 +8,10 @@
 
 **Transforming complex data into actionable insights, intelligent solutions and better business decisions.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/oluwaboriogun-amole-b02b84269/)
-[![GitHub](https://img.shields.io/badge/GitHub-Oluwaboriogunj-181717?style=for-the-badge\&logo=github)](https://github.com/Oluwaboriogunj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaboriogun-amole-b02b84269/)
+[![GitHub](https://img.shields.io/badge/GitHub-Oluwaboriogunj-181717?style=for-the-badge&logo=github)](https://github.com/Oluwaboriogunj)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Oluwaboriogunj\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Oluwaboriogunj&style=for-the-badge)
 
 </div>
 
@@ -46,260 +46,250 @@ I enjoy combining **technical analysis with business understanding** to transfor
 
 ### Programming & Analytics
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Business Intelligence & Visualisation
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Databases & Data
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Machine Learning & AI
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 
 ### Development & Collaboration
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 🚀 Advanced Portfolio Projects
+# 🏛️ Government, Data & AI Innovation Portfolio
 
-> These projects represent my portfolio development roadmap across analytics, BI, machine learning, data engineering and business analysis.
+> A portfolio roadmap focused on modern Australian public-sector analytics, service delivery, responsible AI, forecasting, geospatial intelligence and data governance. Projects are labelled as **Planned / In Development** until working code and outputs are published.
 
-## 🤖 1. Customer Churn Prediction & Retention Intelligence
+## 🏛️ 1. NSW Government Service Delivery Intelligence Platform
+**Status:** 🛠️ Planned / In Development  
+**Python • SQL • Power BI • DAX • ETL • Forecasting**
 
-**Python • SQL • Machine Learning • Power BI**
+A decision-support platform for analysing public-service demand, processing times, service accessibility and regional performance.
 
-End-to-end analytics and machine-learning solution designed to identify customers at risk of churn and support targeted retention strategies.
+**Planned capabilities**
+- Automated ingestion of NSW Government open data
+- Data-quality validation and transformation pipeline
+- SQL analytical model with service-delivery KPIs
+- Power BI executive and regional dashboards
+- Demand and workload forecasting
+- Geographic service-access analysis
+- Business requirements, data dictionary and KPI catalogue
 
-**Project scope:**
-
-* Data cleaning and feature engineering
-* Exploratory data analysis
-* Customer segmentation
-* Logistic Regression
-* Random Forest / Gradient Boosting
-* Model evaluation
-* Churn probability scoring
-* Power BI executive dashboard
-* Business recommendations
-
-**Business Question:**
-*Which customers are most likely to leave, why are they leaving, and what actions could improve retention?*
+**Decision question:** *Where is service demand changing, where are delays emerging, and which areas require closer operational attention?*
 
 ---
 
-## 📊 2. Executive Sales Intelligence Platform
+## 🤖 2. AI Public Consultation & Policy Evidence Analyser
+**Status:** 🛠️ Planned / In Development  
+**Python • NLP • RAG • LLM • Vector Search • Streamlit**
 
-**Power BI • SQL • DAX • Excel**
+A responsible AI application for exploring public consultation documents and other openly published policy evidence.
 
-Interactive executive BI solution for monitoring organisational sales performance and identifying revenue opportunities.
+**Planned capabilities**
+- Document ingestion and semantic search
+- Topic and theme extraction
+- Evidence-linked question answering
+- Sentiment and submission-pattern analysis where methodologically appropriate
+- Source citations and traceable responses
+- Human-review workflow and AI limitations register
 
-**Analysis includes:**
-
-* Revenue trends
-* Profitability
-* Sales growth
-* Product performance
-* Customer segmentation
-* Regional performance
-* KPI tracking
-* Year-over-year analysis
-* Forecasting
-
-**Advanced features:**
-
-* DAX measures
-* Drill-through reporting
-* Dynamic filtering
-* Executive KPI cards
-* Data modelling
-* Automated transformations
+**Design principle:** AI-generated summaries should remain traceable to their source material rather than replacing human policy judgement.
 
 ---
 
-## 🏥 3. Healthcare Analytics & Patient Intelligence
+## 🗺️ 3. NSW Housing Supply & Affordability Intelligence
+**Status:** 🛠️ Planned / In Development  
+**Python • SQL • Power BI • GeoPandas • GIS**
 
-**Python • SQL • Power BI • Predictive Analytics**
+A geospatial analytics project combining public housing, population and regional data to examine affordability and supply pressures across NSW.
 
-Healthcare analytics project designed to transform operational and patient data into actionable insights.
-
-**Analysis areas:**
-
-* Patient demographics
-* Service utilisation
-* Hospital admissions
-* Length of stay
-* Readmission patterns
-* Operational KPIs
-* Resource utilisation
-* Patient risk segmentation
-
-**Advanced component:**
-Predictive model for identifying patients with elevated readmission risk.
+**Planned capabilities**
+- LGA-level affordability indicators
+- Dwelling and population trend analysis
+- Interactive geospatial visualisation
+- Supply-versus-demand indicators
+- Regional comparison dashboard
+- Reproducible data pipeline
 
 ---
 
-## 🏦 4. Financial Fraud Detection System
+## 🚆 4. Sydney Transport Reliability & Demand Analytics
+**Status:** 🛠️ Planned / In Development  
+**Python • APIs • SQL • Power BI • Time Series**
 
-**Python • Machine Learning • SQL**
+A transport intelligence project for analysing service reliability, demand patterns and network performance using suitable public data.
 
-Machine-learning solution for detecting potentially fraudulent financial transactions.
-
-**Technical workflow:**
-
-`Raw Transactions → Data Cleaning → Feature Engineering → EDA → Model Training → Evaluation → Fraud Risk Scoring`
-
-Potential models include:
-
-* Logistic Regression
-* Random Forest
-* Gradient Boosting
-* Isolation Forest
-
-Evaluation focuses on:
-
-* Precision
-* Recall
-* F1 Score
-* ROC-AUC
-* Confusion Matrix
+**Planned capabilities**
+- API/open-data ingestion
+- Peak-period and route-level analysis
+- Reliability and service-performance KPIs
+- Time-series trend analysis
+- Interactive operational dashboard
+- Data-quality monitoring
 
 ---
 
-## 📈 5. AI-Powered Sales Forecasting Platform
+## 🏥 5. NSW Health Service Demand & Capacity Forecasting
+**Status:** 🛠️ Planned / In Development  
+**Python • SQL • Power BI • Statistical Modelling • Forecasting**
 
-**Python • Time Series • Machine Learning • Power BI**
+A public-health analytics project using appropriately aggregated open data to explore demand, capacity and service trends.
 
-Forecasting solution for predicting future sales and supporting planning decisions.
-
-**Analysis includes:**
-
-* Historical trend analysis
-* Seasonality
-* Moving averages
-* Time-series forecasting
-* Forecast accuracy
-* Scenario analysis
-* Interactive forecast dashboard
-
-**Objective:**
-Transform historical sales data into forward-looking business intelligence.
+**Planned capabilities**
+- Historical demand analysis
+- Regional and service-level comparisons
+- Seasonal trend detection
+- Forecasting with back-testing
+- Capacity-planning dashboard
+- Model performance and limitations documentation
 
 ---
 
-## 🏗️ 6. Modern Data Engineering & Analytics Pipeline
+## 💼 6. Australian Labour Market & Skills Intelligence
+**Status:** 🛠️ Planned / In Development  
+**Python • SQL • Power BI • NLP • Forecasting**
 
-**Python • SQL • ETL • Data Modelling**
+An analytics platform for exploring employment, occupations and skills trends using Australian public datasets.
 
-End-to-end pipeline demonstrating how raw data can move from multiple sources into an analytics-ready environment.
+**Planned capabilities**
+- Employment and occupation trends
+- Regional workforce comparisons
+- Skills-demand analysis
+- Searchable occupation insights
+- Trend forecasting
+- Executive labour-market dashboard
+
+---
+
+## 🌏 7. Climate, Disaster & Community Risk Intelligence
+**Status:** 🛠️ Planned / In Development  
+**Python • GIS • APIs • SQL • Power BI**
+
+A geospatial decision-support project for combining suitable open environmental, demographic and infrastructure data.
+
+**Planned capabilities**
+- Geographic risk indicators
+- Exposure and vulnerability analysis
+- Interactive risk maps
+- Historical event analysis
+- Data pipeline for multiple public sources
+- Transparent methodology and limitations
+
+---
+
+## 🔐 8. Public-Sector Data Quality & Governance Monitor
+**Status:** 🛠️ Planned / In Development  
+**Python • SQL • Great Expectations-style Validation • Power BI**
+
+A governance-focused project for measuring whether analytical datasets are complete, valid, consistent, timely and fit for reporting.
+
+**Planned capabilities**
+- Automated validation rules
+- Missing-value and duplicate monitoring
+- Schema and business-rule checks
+- Data-quality scorecards
+- Issue logging and remediation workflow
+- Data dictionary, lineage and governance documentation
+
+---
+
+## 🧠 9. Government Open Data AI Assistant
+**Status:** 🛠️ Planned / In Development  
+**Python • SQL • RAG • LLM • Streamlit • Responsible AI**
+
+A natural-language analytics interface designed to answer questions over selected government open datasets while preserving evidence and traceability.
 
 ```text
-Data Sources
-     ↓
-Data Extraction
-     ↓
-Python ETL
-     ↓
-Data Validation
-     ↓
-SQL Database
-     ↓
-Data Transformation
-     ↓
-Analytics Model
-     ↓
-Power BI
-     ↓
-Business Insights
+Public Open Data
+       ↓
+Validated Data Pipeline
+       ↓
+SQL / Analytics Layer
+       ↓
+Retrieval + AI Layer
+       ↓
+Evidence-linked Answer
+       ↓
+Dashboard / Decision Support
 ```
 
-**Core concepts:**
-
-* ETL
-* Data quality validation
-* Dimensional modelling
-* Fact and dimension tables
-* Star schema
-* Analytics-ready datasets
-* Automated reporting
+**Planned safeguards**
+- Source attribution
+- Query logging
+- Restricted dataset scope
+- Hallucination checks
+- Human review for high-impact interpretations
+- Clear limitations and reproducible calculations
 
 ---
 
-## 💼 7. Business Analysis Digital Transformation Case Study
+## 🏗️ 10. Whole-of-Government Open Data Engineering Platform
+**Status:** 🛠️ Planned / In Development  
+**Python • APIs • SQL • ETL/ELT • Data Modelling • CI/CD**
 
-**Business Analysis • BPMN • Requirements • Process Improvement • Data**
+A reusable engineering project that turns multiple open-data sources into analytics-ready datasets.
 
-A complete business-analysis case study examining an organisation moving from a manual process to a data-driven digital solution.
-
-**Deliverables:**
-
-* Business problem definition
-* Stakeholder analysis
-* Current-state process
-* Future-state process
-* Gap analysis
-* Functional requirements
-* Non-functional requirements
-* User stories
-* Acceptance criteria
-* Risk analysis
-* KPI framework
-* Solution recommendations
-
-This project demonstrates the connection between **business requirements, technology and data-driven decision-making**.
-
----
-
-## 🧠 8. AI Business Intelligence Assistant
-
-**Python • SQL • Generative AI • Analytics**
-
-Advanced portfolio concept combining business intelligence with generative AI.
-
-### Architecture
+**Planned architecture**
 
 ```text
-Business User
-      ↓
-Natural-Language Question
-      ↓
-AI Analytics Layer
-      ↓
-SQL / Data Retrieval
-      ↓
-Analytics Engine
-      ↓
-Business Insight
-      ↓
-Dashboard / Recommendation
+Open Data APIs / CSV / JSON
+            ↓
+       Ingestion Layer
+            ↓
+   Validation & Testing
+            ↓
+     Transformation
+            ↓
+   Analytical Data Model
+            ↓
+ SQL / BI / ML Consumption
+            ↓
+ Monitoring & Documentation
 ```
 
-**Example questions:**
+**Engineering focus**
+- Modular ETL/ELT
+- Configuration-driven ingestion
+- Data validation
+- Dimensional modelling
+- Automated tests
+- Reproducible environments
+- CI/CD-ready repository structure
+- Technical documentation
 
-> “Which products experienced the largest revenue decline?”
+---
 
-> “What factors are contributing to customer churn?”
+## ⭐ Flagship Build Order
 
-> “Summarise this month's business performance.”
+1. **NSW Government Service Delivery Intelligence Platform**
+2. **AI Public Consultation & Policy Evidence Analyser**
+3. **NSW Housing Supply & Affordability Intelligence**
+4. **Public-Sector Data Quality & Governance Monitor**
+5. **Government Open Data AI Assistant**
 
-The goal is to demonstrate how **AI can make organisational data more accessible to decision-makers**.
+> As each project becomes functional, this roadmap will be replaced with direct repository links, screenshots, architecture diagrams, measurable findings and reproducible instructions.
 
 ---
 
@@ -395,14 +385,14 @@ I am building a portfolio at the intersection of:
 
 I am particularly interested in opportunities involving:
 
-* Data Analytics
-* Business Analysis
-* Business Intelligence
+* Data Analytics & Business Intelligence
+* Business & Systems Analysis
+* Government and Public-Sector Analytics
 * Graduate Technology
-* Data & AI
+* Data & Responsible AI
+* Data Engineering & Automation
 * Analytics Consulting
 * Digital Transformation
-* Data-driven strategy
 
 ---
 
@@ -412,9 +402,9 @@ I am interested in collaborating on **data analytics, BI, business analysis, mac
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Oluwaboriogun-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/oluwaboriogun-amole-b02b84269/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Oluwaboriogun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaboriogun-amole-b02b84269/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Oluwaboriogunj-181717?style=for-the-badge\&logo=github)](https://github.com/Oluwaboriogunj)
+[![GitHub](https://img.shields.io/badge/GitHub-Oluwaboriogunj-181717?style=for-the-badge&logo=github)](https://github.com/Oluwaboriogunj)
 
 ### 💡 Turning Data Into Decisions
 
